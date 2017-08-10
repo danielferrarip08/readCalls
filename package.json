@@ -1,0 +1,17 @@
+{
+  "name": "ReadCalls",
+  "version": "0.0.1",
+  "description": "Plugin cordova para leitura de historico de ligações",
+  "cordova": {
+    "id": "br.com.daniel.readcalls",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Daniel Ferrari",
+  "license": "MIT"
+}
